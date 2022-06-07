@@ -11,5 +11,6 @@
 [周二,22507,12396,10969,7241,2945,1143],
 [周三,27970,15241,13965,9118,3600,1601]
 </span><span id=remotetablearrend></span>
-<span id=remoteremarkstart>&nbsp;&nbsp;&nbsp;&nbsp;这是一个测试，用于检测程序能否将远程的数据成功抓取并正确的显示在表格中（<b>注意</b>：由于远程数据放在github上，国内github网站非常不稳定，所以此页面有可能会时有时无。）</span><span id=remoteremarkend></span>
+<span id=remoteremarkstart>&nbsp;&nbsp;&nbsp;&nbsp;这是一个测试，用于检测程序能否将远程的数据成功抓取并正确的显示在表格中（<b>注意</b>：由于远程数据放在github上，国内github网站非常不稳定，所以此页面有可能会时有时无。）<br><br></span><span id=remoteremarkend></span>
+<span id=remotesizestart>13</span><span id=remotesizeend></span>
 </span><span id=remotedataend></span>
