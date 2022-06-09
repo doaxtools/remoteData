@@ -1,4 +1,15 @@
 # remoteData
+<!--示例：
+remotedata: 所有数据都应该包含在remotedata中
+remoteoptionname: 为其它数据新增一个选项，选项名就写在remoteoptionname中
+remotetext: 表格上方的文字
+remotetablearr: [1,2,3],[4,5,6]，创建一个两行三列的表格，第一行为1,2,3，第二行为4,5,6。
+remoteremark: 表格下方的备注内容。
+remotesize: 14，设置表格中数字大小为14px
+remoterowspan: [0,1,5]，将第0行第1列的表格向下扩展5个单元格
+remotecolspan: [1,2,4]，将第1行第2列的表格向右扩展4个单元格
+remotefontweight: [1,2]，将第1行第2列的表格中字体加粗；remotefontweight: [1]，将第1行整行加粗；remotefontweight: [,3]，将第3列整列加粗；
+-->
 <span id=remotedatastart>
 <span id=remoteoptionnamestart>上期排位分数(测试)</span><span id=remoteoptionnameend></span>
 <span id=remotetextstart><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022/02/17“融情蜜意维纳斯情人节～羁绊挑战赛篇～”分数线：</span><span id=remotetextend></span>
