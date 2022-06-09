@@ -14,7 +14,7 @@ remotefontweight: [1,2]，将第1行第2列的表格中字体加粗；remotefont
 <span id=remoteoptionnamestart>排位分数</span><span id=remoteoptionnameend></span>
 <span id=remotetextstart><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022/06/09“珠宝之夜的愿望～羁绊挑战赛篇～”分数线：</span><span id=remotetextend></span>
 <span id=remotetablearrstart>
-[23:00分数线,100,400,500,800,2000,6500],
+[23:00分数线,100,400,800,2000,5000,6500],
 [周四,,,,,,],
 [周五,,,,,,],
 [周六,,,,,,],
