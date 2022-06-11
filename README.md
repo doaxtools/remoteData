@@ -13,7 +13,7 @@ remotefontweight: [1,2]，将第1行第2列的表格中字体加粗；remotefont
 -->
 <span id=remotedatastart>
 <span id=remoteoptionnamestart>排位分数</span><span id=remoteoptionnameend></span>
-<span id=remotetextstart><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022/06/09“珠宝之夜的愿望～羁绊挑战赛篇～”分数线(单位:万)</span><span id=remotetextend></span>
+<span id=remotetextstart><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022/06/09“珠宝之夜的愿望～羁绊挑战赛篇～”<a title="点击前往百度贴吧【22.06.09魅力排位】全记录" style="text-decoration:none;color:blue" href="#" rel="external nofollow" onclick="useDefBrowser('https://tieba.baidu.com/p/7872576277')">分数线</a>(单位:万)</span><span id=remotetextend></span>
 <span id=remotetablearrstart>
 [23:00分数线,100,400,800,2000,5000,6500],
 [周四,1303,687,470,261,100,67],
