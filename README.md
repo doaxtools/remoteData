@@ -22,7 +22,7 @@ remotefontweight: [1,2]，将第1行第2列的表格中字体加粗；remotefont
 [周日,16088,7900,4309,2010,810,553],
 [周一,20345,10321,5493,2367,1048,717],
 [周二,,,,,,],
-[周三,,,,,,]
+[周三,30013,15542,8816,3410,1607,1224]
 </span><span id=remotetablearrend></span>
 <span id=remoteremarkstart>&nbsp;&nbsp;&nbsp;&nbsp;每日23:00更新数据（<b>注意</b>：由于远程数据放在github上，国内github网站非常不稳定，所以此页面有可能会时有时无。建议更新至3.10之后的版本）<br><br><br><br></span><span id=remoteremarkend></span>
 <span id=remotesizestart>14</span><span id=remotesizeend></span>
