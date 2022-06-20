@@ -12,19 +12,10 @@ remotecolspan: [1,2,4]，用于合并单元格，将第1行第2列的表格向�
 remotefontweight: [1,2]，将第1行第2列的表格中字体加粗；remotefontweight: [1]，将第1行整行加粗；remotefontweight: [,3]，将第3列整列加粗；
 -->
 <span id=remotedatastart>
-<span id=remoteoptionnamestart>排位分数</span><span id=remoteoptionnameend></span>
-<span id=remotetextstart><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022/06/09“珠宝之夜的愿望～羁绊挑战赛篇～”<a title="点击前往百度贴吧【22.06.09魅力排位】全记录"  href="https://tieba.baidu.com/p/7872576277">分数线</a>(单位:万)</span><span id=remotetextend></span>
-<span id=remotetablearrstart>
-[23:00分数线,100,400,800,2000,5000,6500],
-[周四,1303,687,470,261,100,67],
-[周五,6181,2800,1681,799,329,233],
-[周六,11172,5195,3024,1403,553,386],
-[周日,16088,7900,4309,2010,810,553],
-[周一,20345,10321,5493,2367,1048,717],
-[周二,,,,,,],
-[周三,30013,15542,8816,3410,1607,1224]
-</span><span id=remotetablearrend></span>
-<span id=remoteremarkstart>&nbsp;&nbsp;&nbsp;&nbsp;每日23:00更新数据（<b>注意</b>：由于远程数据放在github上，国内github网站非常不稳定，所以此页面有可能会时有时无。建议更新至3.10之后的版本）<br><br><br><br></span><span id=remoteremarkend></span>
+<span id=remoteoptionnamestart>重要更新</span><span id=remoteoptionnameend></span>
+<span id=remotetextstart><br><br>&nbsp;&nbsp;&nbsp;&nbsp;v3.11(测试版)&nbsp;&nbsp;2022/06/16&nbsp;&nbsp; @卑微小萌新&nbsp;&nbsp;<br>更正了声援板中异属性SR经验值为8960。<br>使用免费空间替代github的功能，替换了所有github相关代码<br>在其它数据模块新增了衣服推荐项<br>v3.12&nbsp;&nbsp; 2022/06/19&nbsp;&nbsp;@卑微小萌新<br>更改整体配色方案，新版本整体颜色较旧版本偏亮<br>调整部分表格布局，使其垂直居中<br>略调整了悬浮文字位置<br>支持不同版本对应推送不同的远程数据<br>修复3.11版本点击下拉菜单可能导致程序闪退的BUG<br><b>注意</b>：3.10及之前的版本不再提供远程数据支持，请尽快更新至3.12版本！</span><span id=remotetextend></span>
+<span id=remotetablearrstart></span><span id=remotetablearrend></span>
+<span id=remoteremarkstart></span><span id=remoteremarkend></span>
 <span id=remotesizestart>14</span><span id=remotesizeend></span>
-<span id=remotefontweightstart>[0]</span><span id=remotefontweightend></span>
+<span id=remotefontweightstart></span><span id=remotefontweightend></span>
 </span><span id=remotedataend></span>
